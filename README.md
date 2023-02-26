@@ -1,26 +1,8 @@
-# React Slack Clone
-
-[![Star on GitHub][github-star-badge]][github-star]
-[![Tweet][twitter-badge]][twitter]
-[![Build Status][travis-badge]][travis]
-
-> Slack clone powered by [Chatkit](https://pusher.com/chatkit). See it in action here https://pusher.github.io/react-slack-clone
+# Chat web app
 
 ![demo](https://user-images.githubusercontent.com/1457604/35891289-687ad6ec-0b9b-11e8-99cc-ffbad31a017e.gif)
 
 This is a static, single page web app bootstrapped with [create-react-app](https://github.com/facebookincubator/create-react-app) for ease of setup, distribution and development. It is a thin UI wrapper around the [pusher-chatkit-client](https://github.com/pusher/chatkit-client-js) library to demonstrate how different features can work together to form a compelling real-time chat client with various potential product applications.
-
-## Features
-
-The Chatkit SDK allows you to implement features you would expect from a chat client. These include:
-
-* 📝 Public and private chat rooms
-* 📡 Realtime sending and receiving of messages
-* 📦 Rich media attachments (drag and drop)
-* 💬 Typing and presence indicators
-* 📚 Read message cursors
-
-Want to get involved? We have a bunch of [beginner-friendly GitHub issues](https://github.com/pusher/react-slack-clone/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
 ## Components
 
